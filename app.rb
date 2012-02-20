@@ -2,5 +2,6 @@ require 'sinatra'
 require './ideas'
 
 get '/' do
-  IDEAS.sample
+  idea = IDEAS.sample
+  erb :index, locals: { idea: idea }
 end
