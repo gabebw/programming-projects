@@ -1,5 +1,7 @@
 require 'sinatra'
-require './ideas'
+require_relative 'ideas'
+
+set :root, File.expand_path("../..", __FILE__)
 
 get '/' do
   idea = IDEAS.sample
