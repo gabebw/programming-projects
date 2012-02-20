@@ -3,5 +3,6 @@ require './ideas'
 
 get '/' do
   idea = IDEAS.sample
-  erb :index, locals: { idea: idea }
+  erb :index, layout: :layout,
+              locals: { idea: idea }
 end
