@@ -33,6 +33,10 @@ body {
   #content {
     font-family: $sans-serif;
 
+    a {
+      color: darken($baby-blue, 55%);
+    }
+
     #idea {
       font-size: $body-font-size;
       margin-top: 25px;
@@ -42,10 +46,6 @@ body {
       font-size: $body-font-size - 10px;
       margin-top: 20px;
       text-align: center;
-
-      a:visited {
-        color: black;
-      }
     }
   }
 
