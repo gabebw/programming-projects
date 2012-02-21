@@ -1,7 +1,48 @@
-h1 {
-  font-family: Georgia, serif;
+// The extremely poor man's reset.
+* {
+  padding: 0;
+  margin: 0;
 }
 
-p {
-  font-family: "Helvetica Neue", sans-serif;
+$baby-blue: #A1CAF1;
+
+body {
+  background-color: $baby-blue;
+  width: 600px;
+  margin: 0 auto;
+}
+
+#container {
+  margin-top: 80px;
+  width: 600px;
+
+  #hey {
+    font: 30px Lemon;
+    margin: 0 auto;
+    width: 300px;
+  }
+
+  #header {
+    margin-top: 12px;
+
+    h1 {
+      font-family: "Helvetica Neue", sans-serif;
+    }
+  }
+
+  #content {
+    #idea {
+      font: 20px "Helvetica Neue", sans-serif;
+      margin-top: 20px;
+    }
+  }
+
+  #footer {
+    margin-top: 30px;
+    text-align: center;
+
+    .love {
+      color: red;
+    }
+  }
 }
