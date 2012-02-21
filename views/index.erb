@@ -1,12 +1,8 @@
-<div id="header">
-  <h1>Hey! You can build:</h1>
-</div>
+<%= erb :header %>
 
 <div id="content">
   <h3 id="idea"><%= idea %></h3>
-  <p id="refresh">(<a href="/<%= index %>">permalink</a>, <a href="/">refresh</a> for another)</p>
+  <p id="refresh">(<a href="/<%= index %>">permalink</a>, or <a href="/">refresh</a> for another)</p>
 </div>
 
-<div id="footer">
-  <p>Made by gabebw.</p>
-</div>
+<%= erb :footer %>

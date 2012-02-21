@@ -10,11 +10,11 @@ get '/' do
               locals: { idea: idea, index: index }
 end
 
-get '/:index' do
-  index = params[:index].to_i
+get '/:idea_index' do
+  index = params[:idea_index].to_i
   idea  = IDEAS[index]
-  erb :index, layout: :layout,
-              locals: { idea: idea, index: index }
+  erb :show, layout: :layout,
+             locals: { idea: idea }
 end
 
 get "/css/:name.css" do
