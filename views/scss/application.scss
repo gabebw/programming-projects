@@ -5,40 +5,55 @@
 }
 
 $baby-blue: #A1CAF1;
+$width: 800px;
+
+// FONTS
+$sans-serif: "Helvetica Neue", sans-serif;
 
 body {
   background-color: $baby-blue;
-  width: 600px;
+  width: $width;
   margin: 0 auto;
 }
 
 #container {
   margin-top: 80px;
-  width: 600px;
+  width: $width;
 
   #hey {
-    font: 30px Lemon;
-    margin: 0 auto;
-    width: 300px;
+    font: 50px Lemon;
+    text-align: center;
   }
 
   #header {
-    margin-top: 12px;
+    margin-top: 20px;
 
     h1 {
-      font-family: "Helvetica Neue", sans-serif;
+      font-family: $sans-serif;
     }
   }
 
   #content {
+    font-family: $sans-serif;
+
     #idea {
-      font: 20px "Helvetica Neue", sans-serif;
+      font-size: 45px;
+      margin-top: 25px;
+    }
+
+    #refresh {
+      font-size: 20px;
       margin-top: 20px;
+      text-align: center;
+
+      a:visited {
+        color: black;
+      }
     }
   }
 
   #footer {
-    margin-top: 30px;
+    margin: 30px auto;
     text-align: center;
 
     .love {
