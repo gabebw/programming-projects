@@ -18,5 +18,6 @@ IDEAS = [
   "A coin-toss program (heads ... or tails?!?!?!?!)",
   "Ask for your first and last name and display your full name",
   "Rock paper scissors",
-  "A dice roller"
+  "A dice roller",
+  "An app that makes every word Snoop Doggified."
 ]
