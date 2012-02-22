@@ -21,5 +21,6 @@ IDEAS = [
   "A dice roller",
   "An app that Snoop Doggifies every word.",
   "A palindrome detector",
-  "Tic tac toe"
+  "Tic tac toe",
+  "Guess the word (Treat yo' _ _ _ _)"
 ]
