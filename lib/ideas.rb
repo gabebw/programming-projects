@@ -12,9 +12,9 @@ IDEAS = [
   # "A service that tells you if that's what she said. It's not that hard. (That's what she said.)",
   # "An anagram generator.",
   # %q{A little app to manipulate photos, <a href="http://camanjs.com/#example-table">like this</a>. You can build something awesome for <a href="http://www.photohackday.org/about.html">Photo Hack Day</a>!}
-  "An app that asks for two numbers and add them",
-  "An app that asks for two numbers and subtract them",
-  "An app that asks for the lengths of two sides of a right triangle and display the length of the hypotenuse",
+  "An app that asks for two numbers and adds them",
+  "An app that asks for two numbers and subtracts them",
+  "An app that asks for the lengths of two sides of a right triangle and displays the length of the hypotenuse",
   "A coin-toss program (heads ... or tails?!?!?!?!)",
   "An app that asks for your first and last name and display your full name",
   "Rock paper scissors",
