@@ -18,5 +18,5 @@ get '/:idea_index' do
 end
 
 get "/css/:name.css" do
-  scss :"scss/#{params[:name]}"
+  scss :"scss/#{params[:name]}", style: :compressed
 end
