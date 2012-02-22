@@ -15,7 +15,7 @@ IDEAS = [
   "Ask for two numbers and add them",
   "Ask for two numbers and subtract them",
   "Ask for the lengths of two sides of a right triangle and display the length of the hypotenuse",
-  "A coin-toss program (heads or tails?)",
+  "A coin-toss program (heads ... or tails?!?!?!?!)",
   "Ask for your first and last name and display your full name",
   "Rock paper scissors",
   "A dice roller"
