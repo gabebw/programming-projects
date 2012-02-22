@@ -19,5 +19,5 @@ IDEAS = [
   "Ask for your first and last name and display your full name",
   "Rock paper scissors",
   "A dice roller",
-  "An app that makes every word Snoop Doggified."
+  "An app that Snoop Doggifies every word."
 ]
