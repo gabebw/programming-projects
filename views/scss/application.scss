@@ -25,8 +25,13 @@ body {
   #header {
     margin-top: 20px;
 
-    h1 {
-      font: $header-font-size Lemon;
+    a {
+      color: black;
+      text-decoration: none;
+
+      h1 {
+        font: $header-font-size Lemon;
+      }
     }
   }
 
