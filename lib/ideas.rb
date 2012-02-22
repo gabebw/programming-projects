@@ -22,5 +22,10 @@ IDEAS = [
   "An app that Snoop Doggifies every word.",
   "A palindrome detector",
   "Tic tac toe",
-  "Guess the word (Treat yo' _ _ _ _)"
+  "Guess the word (Treat yo' _ _ _ _)",
+  "Number to roman numeral converter",
+  "How old will you be in 2016? How old were you in 1998?",
+  "A fortune-teller that tells different people different fortunes",
+  "Print out the lyrics to 99 bottles of beer",
+  %q{Deaf Grandma program (<a href="http://pine.fm/LearnToProgram/?Chapter=06">here</a>, at the bottom)},
 ]
