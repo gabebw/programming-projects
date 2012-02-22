@@ -20,6 +20,6 @@ IDEAS = [
   "Rock paper scissors",
   "A dice roller",
   "An app that Snoop Doggifies every word.",
-  "Palindrome detector",
+  "A palindrome detector",
   "Tic tac toe"
 ]
