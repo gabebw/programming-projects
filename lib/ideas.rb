@@ -8,5 +8,7 @@ IDEAS = [
   "A to-do list ... IN THE CLOUD",
   "Mad Libs!",
   "A choose-your-own adventure game",
-  "A guess-what-number-I'm-thinking-of game"
+  "A guess-what-number-I'm-thinking-of game",
+  "A service that tells you if that's what she said. It's not that hard. (That's what she said.)",
+  "An anagram generator."
 ]
