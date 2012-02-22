@@ -7,5 +7,6 @@ IDEAS = [
   "A to-do list",
   "A to-do list ... IN THE CLOUD",
   "Mad Libs!",
-  "A choose-your-own adventure game"
+  "A choose-your-own adventure game",
+  "A guess-what-number-I'm-thinking-of game"
 ]
