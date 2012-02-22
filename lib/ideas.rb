@@ -10,5 +10,6 @@ IDEAS = [
   "A choose-your-own adventure game",
   "A guess-what-number-I'm-thinking-of game",
   "A service that tells you if that's what she said. It's not that hard. (That's what she said.)",
-  "An anagram generator."
+  "An anagram generator.",
+  %q{A little app to manipulate photos, <a href="http://camanjs.com/#example-table">like this</a>. You can build something awesome for <a href="http://www.photohackday.org/about.html">Photo Hack Day</a>!}
 ]
