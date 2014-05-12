@@ -25,13 +25,8 @@ body {
   #header {
     margin-top: 20px;
 
-    a {
-      color: black;
-      text-decoration: none;
-
-      h1 {
-        font: $header-font-size Lemon;
-      }
+    h1 {
+      font: $header-font-size Lemon;
     }
   }
 
@@ -44,22 +39,16 @@ body {
 
     #idea {
       font-size: $body-font-size;
-      margin-top: 25px;
+      margin-top: 1.5rem;
     }
 
     #refresh {
       font-size: $body-font-size - 10px;
-      margin-top: 20px;
-      text-align: center;
+      margin-top: 1.5rem;
     }
   }
 
   #footer {
-    margin: 30px auto;
-    text-align: center;
-
-    .love {
-      color: red;
-    }
+    margin-top: 2rem ;
   }
 }
