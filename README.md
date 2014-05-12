@@ -4,7 +4,7 @@ Let's do this thing.
 
 ## Setup
 
-    git remote add heroku git@heroku.com:programming-projects.git
+    ./bin/setup
 
 ## Running the server
 
