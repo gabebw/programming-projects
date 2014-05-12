@@ -11,7 +11,7 @@ IDEAS = [
   "An app that asks for two numbers and subtracts them",
   "An app that asks for the lengths of two sides of a right triangle and displays the length of the hypotenuse",
   "A coin-toss program: heads ... or tails?!?!?!?!",
-  "An app that asks for your first and last name and display your full name",
+  "An app that asks for your first and last name and displays your full name",
   "Rock paper scissors",
   "A dice roller",
   "An app that Snoop Doggifies every wordizzle",
