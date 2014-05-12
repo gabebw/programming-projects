@@ -1,19 +1,9 @@
-// The extremely poor man's reset.
-* {
-  padding: 0;
-  margin: 0;
-}
-
-$baby-blue: #A1CAF1;
-$width: 800px;
-$header-font-size: 45px;
-$body-font-size: 30px;
-
-// FONTS
-$sans-serif: "Helvetica Neue", sans-serif;
+@import 'normalize';
+@import 'variables';
 
 body {
   background-color: $baby-blue;
+
   width: $width;
   margin: 0 auto;
 }
@@ -39,16 +29,13 @@ body {
 
     #idea {
       font-size: $body-font-size;
-      margin-top: 1.5rem;
+      margin-top: 1.2rem;
     }
 
     #refresh {
       font-size: $body-font-size - 10px;
       margin-top: 1.5rem;
+      text-align: center;
     }
-  }
-
-  #footer {
-    margin-top: 2rem ;
   }
 }
