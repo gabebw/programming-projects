@@ -1,8 +1,8 @@
-source :rubygems
+source 'https://rubygems.org'
 
 ruby '2.1.1'
-gem 'sinatra', '~> 1.3.2'
-gem 'sass', '~> 3.1.15'
+gem 'sinatra', '~> 1.4.5'
+gem 'sass'
 
 group :development do
   gem 'shotgun'
