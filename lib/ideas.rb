@@ -1,9 +1,7 @@
 IDEAS = [
   "A yuppie baby name generator",
-  "A yuppie baby name generator ... IN THE CLOUD",
   "A human year &harr; dog year calculator",
   "A to-do list",
-  "A to-do list ... IN THE CLOUD",
   "Mad Libs!",
   "A choose-your-own adventure game",
   "A guess-what-number-I'm-thinking-of game",
@@ -22,4 +20,8 @@ IDEAS = [
   "A fortune-teller that tells different people different fortunes",
   "Print out the lyrics to 99 bottles of beer",
   %q{<a href="http://pine.fm/LearnToProgram/?Chapter=06">Deaf Grandma program</a>},
+  "99 bottles of beer",
+  "Hangman",
+  "A program that prints out digital-clock-style numbers",
+  "A program that translates a few English words into another language",
 ]
