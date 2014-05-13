@@ -1,4 +1,5 @@
 require 'sinatra'
+require 'sass'
 require_relative 'ideas'
 
 set :root, File.expand_path("../..", __FILE__)
