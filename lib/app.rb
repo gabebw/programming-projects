@@ -1,3 +1,5 @@
+Bundler.setup
+
 require 'sinatra'
 require 'sass'
 require_relative 'ideas'
